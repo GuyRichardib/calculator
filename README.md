@@ -15,6 +15,7 @@ Building a calculator with Javascript
 I have relied on [Youtube](https://www.youtube.com/watch?v=GWkLkHLAOb8&ab_channel=CodesofStrategy) to start my project and also [Codepen](https://codepen.io/paulinewang/pen/rQpOVP?editors=1010)
 
 # Preview:
+[link to calculator](https://guyrichardib.github.io/)
 
 ![image](https://github.com/GuyRichardib/calculator/blob/main/calc.png)
 
