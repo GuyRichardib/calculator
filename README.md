@@ -2,19 +2,19 @@
 > Project duration: 2-3 days Released on the 18th of November
 
 
-#Objectif:
+# Objectif:
 
 Building a calculator with Javascript
 
-#Functionalites:
+# Functionalites:
 
 **Basic mathematical Operators**
 
-#Tools:
+# Tools:
 
 I have relied on [Youtube](https://www.youtube.com/watch?v=GWkLkHLAOb8&ab_channel=CodesofStrategy) to start my project and also [Codepen](https://codepen.io/paulinewang/pen/rQpOVP?editors=1010)
 
-#Preview:
+# Preview:
 
 ![image](https://github.com/GuyRichardib/calculator/blob/main/calc.png)
 
